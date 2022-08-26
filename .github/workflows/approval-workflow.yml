@@ -1,1 +1,2 @@
 name: My Excellent Workflow
+on: pull_request_review
